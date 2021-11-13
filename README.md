@@ -1,10 +1,6 @@
+Green Flower - Global Voting
 
-First Verstion of
-
-Green Flower Global Voting
-
-
-First Draft Intro:
+Draft Intro:
 
 This Space enables a discussion to create a global, society fair, secure voting system.
 
